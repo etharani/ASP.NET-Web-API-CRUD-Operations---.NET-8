@@ -1,0 +1,32 @@
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\bin\Debug\net8.0\appsettings.Development.json
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\bin\Debug\net8.0\appsettings.json
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\bin\Debug\net8.0\Crud System.exe
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\bin\Debug\net8.0\Crud System.deps.json
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\bin\Debug\net8.0\Crud System.runtimeconfig.json
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\bin\Debug\net8.0\Crud System.dll
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\bin\Debug\net8.0\Crud System.pdb
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\obj\Debug\net8.0\Crud System.csproj.AssemblyReference.cache
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\obj\Debug\net8.0\Crud System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\obj\Debug\net8.0\Crud System.AssemblyInfoInputs.cache
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\obj\Debug\net8.0\Crud System.AssemblyInfo.cs
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\obj\Debug\net8.0\Crud System.csproj.CoreCompileInputs.cache
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\obj\Debug\net8.0\Crud System.MvcApplicationPartsAssemblyInfo.cs
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\obj\Debug\net8.0\Crud System.MvcApplicationPartsAssemblyInfo.cache
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\obj\Debug\net8.0\staticwebassets.build.json
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\obj\Debug\net8.0\staticwebassets.development.json
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\obj\Debug\net8.0\staticwebassets\msbuild.Crud System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\obj\Debug\net8.0\staticwebassets\msbuild.build.Crud System.props
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Crud System.props
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Crud System.props
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\obj\Debug\net8.0\scopedcss\bundle\Crud System.styles.css
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\obj\Debug\net8.0\Crud Sys.8C3227AA.Up2Date
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\obj\Debug\net8.0\Crud System.dll
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\obj\Debug\net8.0\refint\Crud System.dll
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\obj\Debug\net8.0\Crud System.pdb
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\obj\Debug\net8.0\Crud System.genruntimeconfig.cache
+D:\Build my job\ASP.NET-Web-API-CRUD-Operations---.NET-8\Crud System\Crud System\obj\Debug\net8.0\ref\Crud System.dll

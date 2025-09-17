@@ -1,6 +1,6 @@
 @Crud_System_HostAddress = http://localhost:5144
 
-GET {{Crud_System_HostAddress}}/weatherforecast/
+GET {{Crud_System_HostAddress}}/Student/
 Accept: application/json
 
 ###
